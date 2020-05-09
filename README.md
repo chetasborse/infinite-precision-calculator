@@ -1,6 +1,6 @@
 # infinite-precision-calculator
 
-This calculator made in C language can help you carry out operations, evaluate expressions with huge numbers.
+This calculator made in C language can help you carry out operations, evaluate expressions with huge decimal numbers using BODMAS
 
 decimal.h is the header file and includes all the functions.
 
