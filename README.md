@@ -8,7 +8,12 @@
 
 infix.c includes the main function of the program along with infix operation.
 
-To Run the project, just link decimal.c, infix.c files or just run ``` ./3 filename.txt ``` (here filename.txt will store your history)
+## To Run
 
+- ```gcc decimal.c infix.c -o calc -lm```
+- ```./calc filename.txt```
+
+
+## Screenshot
 
 <img src="Screenshot (91).png">
