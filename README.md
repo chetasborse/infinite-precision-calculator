@@ -10,8 +10,7 @@ infix.c includes the main function of the program along with infix operation.
 
 ## To Run
 
-- ```gcc decimal.c infix.c -o calc -lm```
-- ```./calc filename.txt```
+- ```make run```
 
 
 ## Screenshot
